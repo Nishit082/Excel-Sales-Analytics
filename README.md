@@ -1,11 +1,6 @@
 # AtilQ Hardware Performance Analytics
 
-## Project Overview
-
-Excited to share the completion of my advanced MS Excel course from Codebasics and my inaugural project! 🎉
-
 ## Project Description
-
 This project delves into the realm of AtilQ Hardware Performance, encapsulating comprehensive sales and finance analytics. The report provides an in-depth overview of the company's performance, uncovering valuable insights through meticulous data analysis.
 
 ## Technical & Soft Skills:
@@ -29,8 +24,8 @@ Throughout the project, I engaged with raw datasets and leveraged various advanc
 
 ### Finance Analytics
 - **_[Profit and Loss (P&L) by Month](https://github.com/Nishit082/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_**: Detailed monthly financial performance.
-- **P&L for Market**: Assessed financial outcomes for different market segments.
-- **Gross Margin % by Quarters**: Provided a quarterly analysis of gross margin percentages to inform strategic financial decisions.
+- **_[P&L for Market](https://github.com/Nishit082/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20Market.pdf)_**: Assessed financial outcomes for different market segments.
+- **_[Gross Margin % by Quarters](https://github.com/Nishit082/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters.pdf)_**: Provided a quarterly analysis of gross margin percentages to inform strategic financial decisions.
 
 ## Conclusion
 
